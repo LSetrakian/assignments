@@ -1,0 +1,175 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         132
+	Longest value:         7 characters
+	Most common values:    None (14x)
+	                       G000565 (9x)
+	                       B001245 (5x)
+	                       C000059 (4x)
+	                       K000376 (4x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         138
+	Longest value:         30 characters
+	Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (9x)
+	                       HON. PAUL A. GOSAR (9x)
+	                       HON. MADELEINE Z. BORDALLO (5x)
+	                       HON. KEN CALVERT (4x)
+	                       HON. DAVID G. VALADAO (4x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (209x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         6
+	Longest value:         30 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (195x)
+	                       ADMIN AND OPS (6x)
+	                       WOUNDED WARRIOR EXPENSES (3x)
+	                       GENERAL EXPENDITURES (3x)
+	                       NEW MEMBERS ORIENTATION (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    TRAVEL (209x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         62
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-03-27 (13x)
+	                       2017-01-03 (9x)
+	                       2017-03-21 (9x)
+	                       2017-03-29 (8x)
+	                       2017-03-02 (7x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (209x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         207
+	Longest value:         8 characters
+	Most common values:    E0497615 (2x)
+	                       E0498434 (2x)
+	                       E0474083 (1x)
+	                       E0491805 (1x)
+	                       E0493441 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         37
+	Longest value:         25 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (165x)
+	                       ROJEWSKI COLE J. (4x)
+	                       HERRMANN MATTHEW (3x)
+	                       CHANDLER SHANA M. (3x)
+	                       SCHWAB OLIVER (2x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         93
+	Smallest value:        2016-06-21
+	Largest value:         2017-03-20
+	Most common values:    2016-12-04 (14x)
+	                       2017-02-08 (10x)
+	                       2017-01-18 (10x)
+	                       2017-01-30 (7x)
+	                       2016-12-12 (5x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         86
+	Smallest value:        2016-06-24
+	Largest value:         2017-12-15
+	Most common values:    2017-01-21 (13x)
+	                       2017-02-25 (8x)
+	                       2017-02-10 (7x)
+	                       2016-11-09 (7x)
+	                       2016-12-09 (7x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         7 characters
+	Most common values:    LODGING (209x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         189
+	Smallest value:        1,000.17
+	Largest value:         9,823.44
+	Sum:                   442,871.72
+	Mean:                  2,119.003
+	Median:                1,650.4
+	StDev:                 1,426.745
+	Most common values:    1,250.34 (6x)
+	                       1,667.12 (5x)
+	                       1,041.95 (4x)
+	                       2,917.46 (4x)
+	                       1,183.5 (2x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   421,461
+	Mean:                  2,016.56
+	Median:                2,017
+	StDev:                 0.498
+	Most common values:    2,017 (117x)
+	                       2,016 (92x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         37
+	Longest value:         25 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (165x)
+	                       ROJEWSKI COLE J. (4x)
+	                       HERRMANN MATTHEW (3x)
+	                       CHANDLER SHANA M. (3x)
+	                       SCHWAB OLIVER (2x)
+
+Row count: 209

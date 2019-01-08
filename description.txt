@@ -1,0 +1,1 @@
+I modified the purpose in the reader to LODGING and kept the amount at greater than 1000. I found that there were 210 records with an  amount greater than 1000 dollars.
