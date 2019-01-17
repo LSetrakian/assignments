@@ -1,0 +1,4 @@
+name,age,secretIdentity,powers,squadName,homeTown,formed,secretBase,active
+Molecule Man,29,Dan Jukes,"['Radiation resistance', 'Turning tiny', 'Radiation blast']",squadName,homeTown,formed,secretBase,active
+Madame Uppercut,39,Jane Wilson,"['Million tonne punch', 'Damage resistance', 'Superhuman reflexes']",squadName,homeTown,formed,secretBase,active
+Eternal Flame,1000000,Unknown,"['Immortality', 'Heat Immunity', 'Inferno', 'Teleportation', 'Interdimensional travel']",squadName,homeTown,formed,secretBase,active
